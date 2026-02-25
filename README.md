@@ -1,8 +1,8 @@
 # 🏎️ F1 Data Command Center
 
 [![Season](https://img.shields.io/badge/Season-2026-red.svg)](https://www.formula1.com)
-[![Status](https://img.shields.io/badge/Status-Active-green.svg)](https://github.com/pvtaj3/f1-data-command-center)
-[![Data](https://img.shields.io/badge/Data-Real--Time-blue.svg)](https://github.com/pvtaj3/f1-data-command-center)
+[![Status](https://img.shields.io/badge/Status-Active-green.svg)](#)
+[![Data](https://img.shields.io/badge/Data-Real--Time-blue.svg)](#)
 
 **Advanced F1 telemetry analysis and driver performance comparison platform for the 2026 FIA Formula One World Championship.**
 
@@ -664,10 +664,10 @@ alerts:
       message: "🔥 Bearman showing superior race pace to Ocon"
 
 notification_channels:
-  - email: aaron@example.com
+  - email: user@example.com
   - slack: "#f1-alerts"
   - discord: "F1-Data-Center"
-  - sms: "+61XXXXXXXXX"  # For CRITICAL alerts only
+  - sms: "+00XXXXXXXXX"  # For CRITICAL alerts only
 ```
 
 ### Alert Delivery System
@@ -798,7 +798,7 @@ def monitor_bearman_ocon_performance(session_data):
 
 ## 🤝 Contributing
 
-This is a personal analytics project, but suggestions and improvements are welcome!
+Suggestions and improvements are welcome through pull requests.
 
 ### Development Roadmap
 
@@ -815,14 +815,6 @@ This is a personal analytics project, but suggestions and improvements are welco
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 📞 Contact & Support
-
-**Repository Owner:** Aaron Tindall  
-**Project Focus:** F1 2026 Season Data Analytics  
-**Primary Analysis:** Bearman vs Ocon (Haas F1 Team)
 
 ---
 
